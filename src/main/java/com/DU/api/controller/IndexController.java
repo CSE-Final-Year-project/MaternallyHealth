@@ -32,7 +32,7 @@ public class IndexController {
         Logger log = LoggerFactory.getLogger(IndexController.class);
         log.debug("main class running");
 
-        return "<body style=text-align:center><h1 >Welcome to banking-chat-bot-api</h1><p style=margin:10px 5px 15px 20px> Leading financial institutions use our chatbots and voice-powered assistants that customers love to use.</br>We offer premium material from banking industry leaders. Learn how banking professionals are using conversational AI </br>To improve customer experience using AI-enabled services, build robust,</br> multi-domain dialog systems.The future of banking AI assistants.<p/></body>";
+        return "<body style=text-align:center><h1 >Welcome to Maternally heath API</h1><p style=margin:10px 5px 15px 20px> This is where support for mother from day 1 up to the end.<p/></body>";
 
     }
 }
